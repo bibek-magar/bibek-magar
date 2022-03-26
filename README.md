@@ -1,4 +1,6 @@
 
+![gitartwork](artworkUpdate.svg)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/>, I'm Bibek Magar</h1>
 <h3 align="center">Software Developer</h3>

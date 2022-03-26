@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beevekmgr" alt="beevekmgr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_bibek_ma" target="blank"><img src="https://img.shields.io/twitter/follow/_ambibek?logo=twitter&style=for-the-badge" alt="_ambibek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_bibek_ma" target="blank"><img src="https://img.shields.io/twitter/follow/_ambibek?logo=twitter&style=for-the-badge" alt="_bibek_ma" /></a> </p>
 
 - 📝 I regularly write articles on [https://bibek-magar.medium.com/](https://bibek-magar.medium.com/)
 

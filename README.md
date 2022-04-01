@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibek-magar" alt="bibek-magar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_bibek_ma" target="blank"><img src="https://img.shields.io/twitter/follow/_bibek_ma?logo=twitter&style=for-the-badge" alt="_bibek_ma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_bibek_ma" target="blank"><img src="https://img.shields.io/twitter/follow/_bibek_ma?logo=twitter&style=for-the-badge" alt="_bibek_ma" /></a>   </p>
 
 - 📝 I regularly write articles on [https://bibek-magar.medium.com/](https://bibek-magar.medium.com/)
 
@@ -18,8 +18,11 @@
 - ⚡ Fun fact **I love playing MOBA and FPS game.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="display:flex" align="left">
 <a href="https://twitter.com/_bibek_ma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_bibek_ma" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/bibekmagar/" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_bibek_ma" height="30" width="40" />
+</a>
 </p>
 
 

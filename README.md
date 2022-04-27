@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="display:flex" align="left">
-<a href="https://twitter.com/_bibek_ma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_bibek_ma" height="30" width="40" /></a>
+<a href="https://twitter.com/_bibek_ma" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="_bibek_ma" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/bibekmagar/" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_bibek_ma" height="30" width="40" />
+   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="_bibek_ma" height="30" width="40" />
 </a>
 </p>
 

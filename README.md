@@ -16,6 +16,10 @@
 -->
 
 - 📝 I regularly write articles on [https://bibek-magar.medium.com/](https://bibek-magar.medium.com/)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bibek-magar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bibek-magar/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bibek-magar/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bibek-magar/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bibek-magar/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium@bibek-magar/2" alt="Recent Article 2"> 
+
 
 - 📫 How to reach me **beevekmgr@gmail.com**
 

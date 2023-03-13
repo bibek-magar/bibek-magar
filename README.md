@@ -21,7 +21,7 @@
 > 
 
 
-- 📫 How to reach me **beevekmgr@gmail.com**
+- 📫 How to reach me **bibekcode@gmail.com**
 
 - ⚡ Fun fact **I love playing MOBA and FPS game.**
 
